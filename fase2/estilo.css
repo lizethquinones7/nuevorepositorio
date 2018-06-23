@@ -1,0 +1,41 @@
+/*ejercicio colorrr!!!
+/* equivalente a red */
+/*p:nth-child(1) {
+  background-color: #ff0000;
+}
+
+/* equivalente azul */
+/*p:nth-child(2) {
+  background-color: #0000ff;
+}
+
+/* No tiene un color exacto equivalente */
+/*p:nth-child(3) {
+  background-color: #e0b0ff;
+}
+
+/* Equivale a rojo */
+/*p:nth-child(4) {
+  background-color: rgb(215,10,10);
+}
+
+/* Equivale azul */
+/*p:nth-child(5) {
+  background-color: rgb(10,10,215);
+}
+
+/* Notiene equivalencia */
+/*p:nth-child(6) {
+  background-color: rgb(224,176,215);
+} */
+
+/*Ejercicio Opacidaddd rojo con RGBA */
+p:nth-child(1) {
+  background-color: rgba(255,0,0,0.5);
+}
+
+/* rojo con opacidad */
+p:nth-child(2) {
+  background-color: rgb(255,0,0);
+  opacity: 0.5;
+}
